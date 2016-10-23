@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>期中考试重点（PPT） - 幕布</title>
