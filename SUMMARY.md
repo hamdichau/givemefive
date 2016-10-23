@@ -42,6 +42,7 @@
         * [笔记](01/imaging/note/README.md)
             * [绪论](01/imaging/note/01xulun.md)
             * [呼吸系统](01/imaging/note/02huxixitong.md)
+            * [循环系统](01/imaging/note/03xunhuan.md)
     * [临床核医学](01/nuclear_medicine/README.md)
         * [经验](01/nuclear_medicine/experience/1.1.md)
         * [笔记](01/nuclear_medicine/note/README.md)
